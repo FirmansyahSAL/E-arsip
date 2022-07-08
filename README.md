@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Development
 
 [![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions?query=workflow%3A%22PHPUnit%22)
@@ -100,3 +101,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Running CodeIgniter Tests
 
 Information on running the CodeIgniter test suite can be found in the [README.md](tests/README.md) file in the tests directory.
+=======
+# E-arsip
+E-arsip with Codeigniter 4
+>>>>>>> be2277174b754cdfc503e0de057c5a54dd1c59e5
